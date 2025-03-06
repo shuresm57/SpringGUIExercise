@@ -22,4 +22,5 @@ public class HomeController {
         model.addAttribute("animal", animal);
         return "animals";
     }
+
 }
